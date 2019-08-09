@@ -6,7 +6,8 @@ http://localhost:8080/h2-console
 - `-h2 console login parameters-`
 - `Driver Class:`org.h2.Driver
 - `JDBC URL:`jdbc:h2:mem:test
-- `User Name:`jdbc:h2:mem:test
+- `User Name:`sa
+- `password:` 
 
 - `-Browser login parameters-`
 - `username:` serad
